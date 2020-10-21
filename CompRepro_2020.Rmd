@@ -25,9 +25,12 @@ To add a chunk either click on the green Insert button and choose R or hit Comma
 
 2) Please describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R can be used. Write your answer below.
 
+Wilson et. al. discuss including an explanation for the code that you are about to produce in order to make your code easier to understand. Although this may just be for yourself in the future, it can also be to the benefit of others. R is an extremely powerful tool in this era of data sharing. If you provide some brief explanation of your code, this can facilitate the process of data sharing. 
 
 3) Add a code chunk and find the square root of 4 to the 13th power. If you are unsure of what command to use, google it. 
 
+> sqrt(4^13)
+[1] 8192
 
 4) Push this homework to the GitHub repository for the homework. 
 
